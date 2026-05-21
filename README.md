@@ -1,8 +1,6 @@
 # 📊 Data Science Salary Calculator Dashboard
 
-<p align="center">
-  <img src="./images/Dashboard.png" width="100%" alt="Data Science Salary Calculator Dashboard"/>
-</p>
+![alt text](/images/Dashboard.png)
 
 
 
@@ -38,9 +36,7 @@ The example displayed evaluates the compensation profile of a:
 
 ## Main Dashboard
 
-<p align="center">
-  <img src="./images/Dashboard.png" width="100%" alt="Dashboard Preview"/>
-</p>
+![alt text](/images/Dashboard.png)
 
 ---
 
