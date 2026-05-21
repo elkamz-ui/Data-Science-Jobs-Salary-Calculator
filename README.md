@@ -1,9 +1,6 @@
 # 📊 Data Science Salary Calculator Dashboard
 
 ![alt text](/images/Dashboard.png)
-
-
-
 ---
 
 # 📌 Project Overview
@@ -37,7 +34,6 @@ The example displayed evaluates the compensation profile of a:
 ## Main Dashboard
 
 ![alt text](/images/Dashboard.png)
-
 ---
 
 # 🔍 Dashboard Analytics Breakdown
