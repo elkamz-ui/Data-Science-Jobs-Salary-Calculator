@@ -1,7 +1,5 @@
 # 📊 Data Science Salary Calculator Dashboard
 
-![alt text](/Images/Dashboard.png)
-
 # 📌 Project Overview
 
 The **Data Science Salary Calculator Dashboard** is an interactive analytics solution designed to evaluate global compensation trends across the data science and analytics ecosystem. The dashboard delivers data-driven insights into salary distributions by enabling users to dynamically filter and analyze data across three core dimensions:
